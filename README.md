@@ -12,7 +12,10 @@ Uses Marshmallow Schemas and
 ## Installation steps:
 
 ### Clone the repository:
-git clone https://github.com/lakshmi2812/Todo-Flask-Pytest-project.git
+In the terminal, type:
+```git clone https://github.com/lakshmi2812/Todo-Flask-Pytest-project.git```
+```cd Todo-Flask-Pytest-project```
+
 
 ### Pre-requisites:
 Python 3.x
