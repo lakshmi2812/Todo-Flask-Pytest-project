@@ -3,7 +3,7 @@
 ## Overview:
  A Todo REST API developed using Python and Flask and the flask-smorest extension.
  The API routes have been tested using POSTMAN
- Coming up: API tests for the Todo API using pytest.
+ API tests for the Todo API were developed using pytest.
 
 ## Features:
 REST API
