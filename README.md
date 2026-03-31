@@ -6,8 +6,9 @@
  API tests for the Todo API were developed using pytest.
 
 ## Features:
-REST API
-Uses Marshmallow Schemas and
+REST API<br>
+Uses Marshmallow Schemas and<br>
+pytest tests to test the API and see the test results in a HTML file
 
 ## Installation steps:
 
