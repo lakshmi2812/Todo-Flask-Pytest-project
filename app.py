@@ -138,3 +138,6 @@ class ASpecificTodoTask(MethodView):
 #Register Blueprint with the application object(server)
 api.register_blueprint(todo)
 
+if __name__ == '__main__':
+    server.run(debug=True)
+
