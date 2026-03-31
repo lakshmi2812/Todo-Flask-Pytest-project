@@ -8,7 +8,7 @@
 ## Features:
 REST API<br>
 Uses Marshmallow Schemas and<br>
-pytest tests to test the API and see the test results in a HTML file
+pytest tests to test the API and view the test results in an HTML file
 
 ## Installation steps:
 
