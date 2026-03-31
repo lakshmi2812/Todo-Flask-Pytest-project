@@ -38,7 +38,7 @@ Use an API testing tool like POSTMAN or Insomnia or any other tool of your choic
 
 ### To run the pytest tests to test the API:
 Go to the project root directry and make sure that the app server is running.<br>
-Now, in a separate tab, run the following command from the project root directory:
+Now, in a separate tab, run the following command from the project root directory:<br>
 ```python3 -m pytest --html=report.html```<br>
 The above command will run the tests and the results will be stored in a file called report.html<br>
 Open the report.html file using your favorite web browser to see the results of the API tests.
